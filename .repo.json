@@ -1,0 +1,17 @@
+{
+  "name": "mohami-plus-web-case-study",
+  "description": "Case study: the Mohami Plus web surfaces. A bilingual landing site and a Flutter web platform with a desktop shell, guest mode and deep links, built from the mobile codebase. One codebase, a real desktop experience",
+  "topics": [
+    "flutter",
+    "flutter-web",
+    "case-study",
+    "landing-page",
+    "legaltech",
+    "responsive",
+    "arabic",
+    "rtl",
+    "i18n",
+    "dark-mode"
+  ],
+  "homepage": "https://mohami.plus"
+}
